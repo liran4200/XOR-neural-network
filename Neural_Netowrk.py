@@ -58,7 +58,7 @@ if __name__ == '__main__':
     print("Xor function -", nb_hidden, "hidden layer result:\n", str(output_xor[0]), "\nloss is:\n", str(output_xor[1]))
 
     #####################################
-    #   Xor preparation -3 hidden layer #
+    #   Xor preparation -2 hidden layer #
     #####################################
     dim = 2
     nb_hidden = 2
